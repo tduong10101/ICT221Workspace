@@ -1,0 +1,16 @@
+//Part 1 assignment ICT 
+//Input:
+//manualcash (MC)
+//Autocash (AC)
+//E-toll (ET)
+//Cost of staff member in cents/hour
+//Cost of running AC
+//Cost of running ET
+//Time process in MC in secs
+//Time process in AC in secs
+//Time process in ET in secs
+//price per Motobike V1 type in cents
+//price per Car or 2 axle trucks without trailer V2 type in cents
+price per 2 axle truck with trailer or truck with 3 or more axles) V3 type in cents
+//Output
+//Process
